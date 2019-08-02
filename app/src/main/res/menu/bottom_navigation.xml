@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <item
+            android:id="@+id/autofix"
+            android:icon="@drawable/baseline_crop_original_black_24dp"
+            android:title="Auto Fix"/>
+
+        <item
+            android:id="@+id/crop"
+            android:icon="@drawable/baseline_crop_black_24dp"
+            android:title="Crop"/>
+
+        <item
+            android:id="@+id/edit"
+            android:icon="@drawable/baseline_blur_on_black_24dp"
+            android:title="Edit"/>
+
+        <item
+            android:id="@+id/delete"
+            android:icon="@drawable/baseline_delete_black_24dp"
+            android:title="Delete"/>
+
+        <item
+            android:id="@+id/text"
+            android:icon="@drawable/baseline_create_black_24dp"
+            android:title="Text"/>
+
+
+
+
+
+
+</menu>
